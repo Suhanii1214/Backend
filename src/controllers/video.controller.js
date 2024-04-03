@@ -1,4 +1,4 @@
-import { asyncHandler } from "../utils/asyncHandler";
+import { asyncHandler } from "../utils/asyncHandler.js";
 import { Video } from "../models/video.model.js";
 import mongoose, {isValidObjectId } from "mongoose";
 import { ApiError } from "../utils/apiError.js";

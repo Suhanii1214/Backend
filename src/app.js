@@ -21,7 +21,7 @@ import userRouter from "./routes/user.route.js"
 import videoRouter from "./routes/video.route.js"
 import subscriptionRouter from "./routes/subscription.route.js"
 import commentRouter from "./routes/comments.route.js"
-import likesRouter from "./routes/likes.route.js"
+import likesRouter from "./routes/like.route.js"
 import playlistRouter from "./routes/playlist.route.js"
 import tweetRouter from "./routes/tweet.route.js"
 
